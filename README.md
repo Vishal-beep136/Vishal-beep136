@@ -13,7 +13,7 @@
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Vishal-beep136&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
-  <a href="mailto:alaphtech@gmail.com">
+  <a href="mailto:vishalkumarsports1234@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
   <a href="https://stackoverflow.com/users/15739040/vishal-beep">
