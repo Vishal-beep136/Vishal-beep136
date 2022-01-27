@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=6&layout=compact"><img alt=" Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact"><img alt=" Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact" /></a>
  </p>
+ 
 <h2>🔌 Connect with me</h2>
 
 <p align="center">
