@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=6&layout=compact"><img alt=" Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Vishal-beep136&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me</h2>
 
 <p align="center">
   <a href="mailto:vishalkumarsports1234@gmail.com">
