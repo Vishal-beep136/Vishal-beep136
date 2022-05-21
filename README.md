@@ -36,6 +36,7 @@
 | Git | Firebase |
 | bycrypt | React Js |
 | Flutter | Kotlin |
+|Next Js | HBS |
 | C | C++ |
 | IntelliJ IDEA | PyCharm |
 | StackOverFlow | Google |
