@@ -52,7 +52,7 @@
 
  <summary><b>🏆 Github Trophies</b></summary>
  <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5&theme=radical" alt="TopCodeBeast" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="TopCodeBeast" /> 
 
 <br>
 
