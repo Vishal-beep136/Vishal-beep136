@@ -52,7 +52,7 @@
 
  <summary><b>🏆 Github Trophies</b></summary>
  <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="TopCodeBeast" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
 
 <br>
 
@@ -60,7 +60,7 @@
 
 
  <p>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=40" /></a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&langs_count=40" /></a> 
  </p>
  
  <h2> <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" /> </h2>
