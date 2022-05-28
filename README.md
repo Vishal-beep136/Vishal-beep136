@@ -49,7 +49,16 @@
   <a  href="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical" /></a>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&theme=dracula" alt="vishal" />
 </p>
- 
+
+ <summary><b>🏆 Github Trophies</b></summary>
+ <br>
+<a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> 
+
+<br>
+
+<br>
+
+
  <p>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact" /></a> 
  </p>
