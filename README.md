@@ -8,8 +8,8 @@
 
 👩‍💻 Fav Tech Stacks
 
-|               |               |           |
-| ------------- | ------------- | --------- |
+|               |               |           |        |
+| ------------- | ------------- | --------- |--------|
 | Java  | Android  | Javascript  | HTML  |
 | CSS | Node Js | Express Js | Mongo Db |
 | Gradle | XML | Python | C# |
@@ -18,7 +18,7 @@
 | bycrypt | React Js | Flutter | Kotlin |
 |Next Js | HBS | C | C++ |
 | IntelliJ IDEA | PyCharm |  StackOverFlow | Google |
-| Bootstrap | TailWind Css | SCSS
+| Bootstrap | TailWind Css | SCSS | One Signal |
 
  <h2> <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" /> </h2>
  <a href="https://stackoverflow.com/users/15739040/vishal-beep"><img src="https://stackoverflow.com/users/flair/15739040.png" width="208" height="58" alt="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
