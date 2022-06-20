@@ -3,10 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+### Hi there 👋
+
+- 🌱 I’m currently learning SERVER SIDE Programming
+- 👯 I’m looking to collaborate on Cool Projects
+- 🤔 I’m looking for help with cool programming concepts
+- 💬 Ask me about **JAVA**, **KOTLIN**, **JAVASCRIPT**, **CSS**, **HTML**, **Express**, **Node**, **MongoDB**, or any of thes from my [💖 FAV STACKS](https://github.com/Vishal-beep136/Vishal-beep136/edit/main/README.md#-fav-tech-stacks-)
+
+- ⚡ I like **Errors** more than any **Programming Languages!** 
+
 <br>
 <br>
 
- 💖 Fav Tech Stacks 👩‍💻 
+ <h1>💖 Fav Tech Stacks 👩‍💻</h1>
 
 |               |               |           |        |
 | ------------- | ------------- | --------- |--------|
