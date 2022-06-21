@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning SERVER SIDE Programming
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with cool programming concepts
-- 💬 Ask me about **JAVA**, **KOTLIN**, **JAVASCRIPT**, **CSS**, **HTML**, **Express**, **Node**, **MongoDB**, or any of these from my [💖 FAV STACKS](https://github.com/Vishal-beep136/Vishal-beep136/edit/main/README.md#-fav-tech-stacks-)
+- 💬 Ask me about **JAVA**, **KOTLIN**, **JAVASCRIPT**, **CSS**, **HTML**, **Express**, **Node**, **MongoDB**, or any of these from my [💖 FAV STACKS](https://github.com/Vishal-beep136#-fav-tech-stacks-)
 
 - ⚡ I like **Errors**!
 
