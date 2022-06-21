@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with cool programming concepts
 - 💬 Ask me about **JAVA**, **KOTLIN**, **JAVASCRIPT**, **CSS**, **HTML**, **Express**, **Node**, **MongoDB**, or any of these from my [💖 FAV STACKS](https://github.com/Vishal-beep136/Vishal-beep136/edit/main/README.md#-fav-tech-stacks-)
 
-- ⚡ I like **Errors** more than any **Programming Languages!** 
+- ⚡ I like **Errors**!
 
 <br>
 <br>
