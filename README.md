@@ -38,20 +38,15 @@
 <br>
 
 <p>
-  <a  href="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical" /></a>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&theme=dracula" alt="vishal" />
+<!--   <a  href="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=radical" /></a>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&theme=dracula" alt="vishal" /> -->
+  
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=algolia)
+![Vishal's github stats](http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&count_private=true&theme=algolia)  
+![Vishal's Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&count_private=true&langs_count=40&theme=algolia&layout=compact)  
+  
 </p>
 
  <summary><b>🏆 Github Trophies</b></summary>
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
-
-<br>
-
-<br>
-
-
- <p>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&theme=radical&langs_count=20&layout=compact"><img alt="Vishal Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&langs_count=40&theme=dracula&layout=compact" /></a> 
- </p>
- 
