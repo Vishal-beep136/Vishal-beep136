@@ -1,16 +1,16 @@
+![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
+
 <h1>
-  Welcome to Vishal Beeps's profile!
+  Hey! it's me Vishal Beep
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
-### Hi there 👋
 
 - 🌱 I’m currently learning WEB Technologies
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with cool programming concepts
 - 💬 Ask me about **JAVA**, **JAVASCRIPT**, **KOTLIN**,  **CSS**, **HTML**, **Express**, **Node**, **MongoDB**, or any of these from my [💖 FAV STACKS](https://github.com/Vishal-beep136#-fav-tech-stacks-)
 
-- ⚡ I like **Errors**!
+- ⚡ fun fact - I like **Errors**! but not in **production**!
 
 <br>
 <br>
