@@ -17,7 +17,7 @@
 
  <h1>💖 Fav Tech Stacks 👩‍💻</h1>
 
-|               |               |           |        |
+|               |               |           |        | 
 | ------------- | ------------- | --------- |--------|
 | Java  | Android  | Javascript  | HTML  |
 | CSS | Node Js | Express Js | Mongo Db |
@@ -50,3 +50,6 @@
  <summary><b>🏆 Github Trophies</b></summary>
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
+
+
+<img src="https://user-images.githubusercontent.com/82146140/177694446-2ccf268b-d3d1-493a-ba8d-2ad4fc9ed11d.svg"/>
