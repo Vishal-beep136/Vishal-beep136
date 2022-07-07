@@ -51,5 +51,4 @@
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
 
-
-<img src="https://user-images.githubusercontent.com/82146140/177694446-2ccf268b-d3d1-493a-ba8d-2ad4fc9ed11d.svg"/>
+![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
