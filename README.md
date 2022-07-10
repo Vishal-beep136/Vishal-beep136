@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning WEB Technologies
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with cool programming concepts
-- 💬 Ask me about any thing releated Tech & Programming! i.e. **JAVA**, **JAVASCRIPT**, **React Js** ,**KOTLIN**,  **CSS**, **HTML**, **Express**, **Node**, **MongoDB**
+- 💬 Ask me about any thing releated Tech & Programming! i.e. **JAVA**, **JAVASCRIPT**, **REACT JS** ,**KOTLIN**,  **CSS**, **HTML**, **Express**, **Node**, **MongoDB**
 
 - ⚡ fun fact - I like **Errors**! but not in **production**!
 <br>
