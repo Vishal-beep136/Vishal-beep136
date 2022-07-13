@@ -27,10 +27,10 @@
 🐍 Snake eating my all contribution!
 ![github-user-contribution](https://user-images.githubusercontent.com/82146140/178096153-badf4f99-f37b-45a4-a727-8b431f9c8b10.svg)
 
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
 
-
-  <h1 align="center"> Thank You </h1>
-  <br>
+<br>
 
 ![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
