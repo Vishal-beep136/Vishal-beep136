@@ -2,12 +2,8 @@
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning WEB Technologies
-- 👯 I’m looking to collaborate on Cool Projects
-- 🤔 I’m looking for help with cool programming concepts
-- 💬 Ask me about any thing releated Tech & Programming! i.e. **JAVA**, **JAVASCRIPT**, **REACT JS** ,**KOTLIN**,  **CSS**, **HTML**, **Express**, **Node**, **MongoDB**
+⚡ fun fact - I like **Errors**! but not in **production**!
 
-- ⚡ fun fact - I like **Errors**! but not in **production**!
 <br>
 
 <b>✨ Github Stats</b>
