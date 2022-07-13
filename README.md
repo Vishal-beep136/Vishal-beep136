@@ -24,7 +24,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
 
 
-🐍 Snake eating my all contribution!
+🐍 Snake eating my contributions!
 ![github-user-contribution](https://user-images.githubusercontent.com/82146140/178096153-badf4f99-f37b-45a4-a727-8b431f9c8b10.svg)
 
 <br>
