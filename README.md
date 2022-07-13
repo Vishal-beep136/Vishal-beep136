@@ -10,22 +10,29 @@
 - ⚡ fun fact - I like **Errors**! but not in **production**!
 <br>
 
-<a href="https://stackoverflow.com/users/15739040/vishal-beep"><img src="https://stackoverflow.com/users/flair/15739040.png" width="208" height="58" alt="profile for   Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<b>✨ Github Stats</b>
+
+  <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&langs_count=8&layout=compact" height="192px"/></a>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages which is public not private!
+  <br>
+  <br>
+  <br>
+  
+
+![Vishal's github stats](http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&count_private=true)  
 
 
-![Vishal's Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&count_private=true&langs_count=40&theme=algolia&layout=compact) 
-
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=algolia)
-
-![Vishal's github stats](http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&count_private=true&theme=algolia)  
-
- <summary><b>🏆 Github Trophies</b></summary>
+ <b>🏆 Github Awards!</b>
  <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=5" alt="Vishal Beep" /> 
+ <br>
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=10&margin-h=10" alt="Vishal Beep" /> 
 
+<br>
 
-🐍 Snake eating my contributions!
-![github-user-contribution](https://user-images.githubusercontent.com/82146140/178096153-badf4f99-f37b-45a4-a727-8b431f9c8b10.svg)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Vishal-beep136&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br>
 
