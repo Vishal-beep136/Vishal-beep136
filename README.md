@@ -73,6 +73,7 @@ Programming languages and markup languages
  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6f10f4?logo=bootstrap&logoColor=white"></a>
  <a href="#"><img alt="Express Js" src="https://img.shields.io/badge/Express Js-2e2e2e?logo=express&logoColor=white"></a>
  <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white"></a>
+ <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
  <a href="#"><img alt="Glide" src="https://img.shields.io/badge/Glide-25baa2?logo=glide&logoColor=white"></a>
 </p>
 
