@@ -65,6 +65,19 @@ Programming languages and markup languages
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
 
+🖼 Frameworks and Libraries
+<p>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0099ff?logo=react&logoColor=white"></a>
+ <a href="#"><img alt="Next Js" src="https://img.shields.io/badge/NextJs-2e2e2e?logo=nextjs&logoColor=white"></a>
+ <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0468d7?logo=flutter&logoColor=white"></a>
+ <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6f10f4?logo=bootstrap&logoColor=white"></a>
+ <a href="#"><img alt="Express Js" src="https://img.shields.io/badge/Express Js-2e2e2e?logo=express&logoColor=white"></a>
+ <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white"></a>
+ <a href="#"><img alt="Glide" src="https://img.shields.io/badge/Glide-25baa2?logo=glide&logoColor=white"></a>
+</p>
+
+
+
 🗄️ Databases and cloud hosting
 
 <p>
