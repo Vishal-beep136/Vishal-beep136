@@ -76,7 +76,6 @@ Programming languages and markup languages
  <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
  <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
  <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
- <a href="#"><img alt="Glide" src="https://img.shields.io/badge/Glide-25baa2?logo=glide&logoColor=white"></a>
 </p>
 
 
