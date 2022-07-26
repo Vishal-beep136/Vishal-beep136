@@ -16,10 +16,6 @@
  
  ⚡ fun fact - I like **Errors**! but not in **production**! <br>
  
-  😁 Joke : How many programmers does it take to change a light bulb?
-  <br>
-  None – It’s a hardware problem
-
 <br>
 <br>
 <br>
