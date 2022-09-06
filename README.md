@@ -13,10 +13,7 @@
  👨‍💻 Welcome to Beep's Profile ! <br>
  
  ⚡ fun fact - We don't need to go outside for finding bugs! 🐛🐞 <br>
- 
- <img  src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400">
- 
-<br>
+
 <br>
 <br>
 
