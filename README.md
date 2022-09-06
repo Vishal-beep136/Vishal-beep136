@@ -14,7 +14,7 @@
  
  🥽 Welcome to Beep's Profile ! <br>
  
- ⚡ fun fact - I like **Errors**! but not in **production**! <br>
+ ⚡ fun fact - We don't need to go outside for finding bugs! 🐛🐞 <br>
  
 <br>
 <br>
