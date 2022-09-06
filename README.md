@@ -8,11 +8,11 @@
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 
-<img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" width="300">
+<img  src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400">
 
- 🤡 Hi There ! <br>
+ ✋ Hi There ! <br>
  
- 🥽 Welcome to Beep's Profile ! <br>
+ 👨‍💻 Welcome to Beep's Profile ! <br>
  
  ⚡ fun fact - We don't need to go outside for finding bugs! 🐛🐞 <br>
  
