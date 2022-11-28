@@ -8,6 +8,9 @@
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 
+[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/Vishal-beep136/github-readme-quotify)
+
+
  ✋ Hi There ! <br>
  
  👨‍💻 Welcome to Beep's Profile ! <br>
