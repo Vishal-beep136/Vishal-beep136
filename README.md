@@ -10,7 +10,7 @@
 
  #### ✋ Hi There, I'm <b><i>Vishal!</i></b>
 
- I ❤ Android, Web Developement and Pentesting
+ I ❤ Android, Web Developement and Nodejs
  
  You can find me in StackOverflow too
  
