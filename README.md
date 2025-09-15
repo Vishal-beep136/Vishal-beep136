@@ -9,29 +9,7 @@
  
  <a href="https://stackoverflow.com/users/15739040/vishal-beep"><img src="https://stackoverflow.com/users/flair/15739040.png" width="255" alt="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
- 
-  #### Github Stats ⚡
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-beep136&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages which is public not private!
-  <br>
-  <br>
-  <br>
-  
-  <p>
-   <a href="http://github-readme-streak-stats.herokuapp.com">
-     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-  </a>
-  </p>
- <br>
- 
- <details close>
+ <details open>
    <summary><h4>⚔ My favorite tools</h4></summary>
    <h5>Programming Languages & Markup Languages</h5>
    <p>
@@ -81,7 +59,7 @@
    
  </details>
  
- <details close>
+ <details open>
  <summary><h4>🏆 Github Awards!</h4></summary>
  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=10&margin-h=10" alt="Vishal Beep" />  
  </details>
